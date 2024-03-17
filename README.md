@@ -15,7 +15,7 @@ StudentManager class:
 - Has methods to get information about Students
 
 School class:
-- Used to instantiate the a StudentManager object
+- Used to instantiate a StudentManager object
 - Asks for inputs to create Students and add them to StudentManager
 - Allows users to remove Students and see Students information
 ### Languages/Technology Used
