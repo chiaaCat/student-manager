@@ -2,11 +2,6 @@
 Simple student manager program.
 
 ### Description
-Three classes:
-- Student class
-- StudentManager class
-- School class
-
 Student class:
 - Used to create Student objects
 - Contains 4 necessary fields: ID, first name, last name, GPA
@@ -15,14 +10,14 @@ Student class:
 - Has an Overriden toString method
 
 StudentManager class:
-- 1
-- 2
-- 3
+- Used to hold Student objects
+- Has methods to add and remove Students
+- Has methods to get information about Students
 
 School class:
-- 1
-- 2
-- 3
+- Used to instantiate the a StudentManager object
+- Asks for inputs to create Students and add them to StudentManager
+- Allows users to remove Students and see Students information
 ### Languages/Technology Used
 - Java
 - BBEdit (text editor)
